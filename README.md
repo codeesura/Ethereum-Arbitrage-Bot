@@ -107,6 +107,9 @@ Once the contract is deployed, you can interact with it using the "Deployed Cont
 1. Expand the deployed contract by clicking on the arrow next to its address.
 2. Use the provided input fields and buttons to call the functions of the contract. For example, call the `swap` function and provide the amount of WETH you want to use for the arbitrage.
 
+### Output
+
+![image](https://user-images.githubusercontent.com/120671243/236483120-58eae65b-4453-4c14-906d-a189b8fe686b.png)
 
 ## Disclaimer
 
