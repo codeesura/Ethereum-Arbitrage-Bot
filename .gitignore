@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build directory for compiled contracts
+build/
+
+# Ignore truffle configuration files
+truffle-config.js
+truffle.js
+
+# Ignore environment and secret files
+.env
+.env.local
+.env.development
+.env.production
+.secret
+
+# Ignore custom directories and files
+custom_directory/
+custom_file.txt
